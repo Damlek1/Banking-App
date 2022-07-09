@@ -4,7 +4,7 @@ export const homeObjOne = {
     lightTextDesc: true,
     topLine : 'Exclusive Access',
     headLine: 'Unlimited Transaction with zero fees',
-    description: 'Get access to oue exclusive diamond card that allows you to send unlimited transaction without getting charged ',
+    description: 'Get access to our exclusive diamond card that allows you to send unlimited transaction without getting charged ',
     buttonLabel: 'Get Started',
     imgStart: '',
     img: 'images/svg-1.svg',
