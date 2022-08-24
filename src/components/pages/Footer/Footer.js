@@ -77,7 +77,7 @@ function Footer() {
               DAMLEK
             </Link>
           </div>
-          <small className='website-rights'>Damlek © 2022</small>
+          <small className='website-rights'>Damlek © {new Date().getFullYear()}</small>
           <div className='social-icons'>
             <Link
               className='social-icon-link'
